@@ -5,8 +5,9 @@ we could then input these surroundings into the pre-trained [GoEmotions for the 
 We then generated a polarity for each aspect based on the predictions and scores given by GoEmotions. 
 Finally, we assigned polarity 0 to all aspects whose DEP tag in the SpaCy output was labeled as OBL.
 
-![image](https://user-images.githubusercontent.com/31036627/176501845-53eb04b4-439b-4185-8abf-55fac9e5ad0b.png)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/31036627/176501845-53eb04b4-439b-4185-8abf-55fac9e5ad0b.png" width="700" />
+<\p>
 
 ## Results in the Training Dataset
 
